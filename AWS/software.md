@@ -1,7 +1,7 @@
 
 Software | Version
 --- | --- 
- Python | 3.5.2 
+Python | 3.5.2 
 Tensorflow | 1.3.0
 PyTorch | 0.2.0_3
 Numpy | 1.13.3
