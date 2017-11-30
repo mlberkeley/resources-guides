@@ -1,5 +1,8 @@
+# Installed Software
 
-Software | Version
+Here is a list of all the software packages currently installed on the MLAB Deep Learning AMI, and their corresponding versions.
+
+Package Name | Version
 --- | --- 
 Python | 3.5.2 
 Tensorflow | 1.3.0
