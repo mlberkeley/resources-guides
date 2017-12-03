@@ -12,7 +12,7 @@ Now let's move on to the meat of this problem. If you were to go straight to run
 
 Now let's get on with the tutorial. To get started, you'll need to login to the AWS console. Here you'll want to click Services, then EC2. At the top right, you have the option to choose a specific region. It is imperative that you choose Oregon as the region. Once you select Oregon, then on the left panel, click Spot Requests and then click the Big Blue `Request Spot Instances`.
 
-In the Spot Request wizard, you'll want to go down to the AMI drop down and click `Search for AMI`. You'll be met with a window. Change the dropdown to `Community AMIs`.  Search for `ami-b55e91cd`. Once you have entered the ami id, press the `Select` button to select the `ML@B Deep Learning AMI` ami.
+In the Spot Request wizard, you'll want to go down to the AMI drop down and click `Search for AMI`. You'll be met with a window. Change the dropdown to `Community AMIs`.  Search for `ami-a58052dd`. Once you have entered the ami id, press the `Select` button to select the `ML@B Deep Learning AMI` ami.
 
 In the next entry, you'll be selecting the machine type. First, remove default instance type by clicking the `x` in the gray box. Next, click the Select button. In the window that pops up, scroll down to the p2.xlarge row, click it, and press Select.
 
